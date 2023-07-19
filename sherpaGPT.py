@@ -3,7 +3,7 @@ import openai
 import streamlit as st
 
 # Set the OpenAI API key
-openai.api_key = "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"
+openai.api_key = "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"
 
 print(openai.api_key )
 
